@@ -14,7 +14,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "archiver": "2.0.0",
-    "minimist": "1.2.3",
+    "minimist": "1.2.6",
     "unzipper": "0.10.0"
   },
   "scripts": {
